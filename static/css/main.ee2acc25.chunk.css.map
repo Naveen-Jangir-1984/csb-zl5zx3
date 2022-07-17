@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,KACC,YAAa,CACb,sBAAuB,CACvB,kBACD","file":"main.ee2acc25.chunk.css","sourcesContent":[".App {\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n}\n"]}
